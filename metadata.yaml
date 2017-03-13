@@ -1,5 +1,8 @@
 _repo: Cabbages-and-Kings_2777
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Henry, O.
@@ -22,6 +25,8 @@ description: "Cabbages and Kings is a 1904 novel written by O. Henry, set in a f
   \ OF THE CODE \n   XII. SHOES \n   XIII. SHIPS \n   XIV. MASTERS OF ARTS \n   XV.\
   \ DICKY\n   XVI. ROUGE ET NOIR\n   XVII. TWO RECALLS \n\nXVIII. THE VITAGRAPHOSCOPE\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2777#Cabbages-and-Kings
 gutenberg_issued: '2001-08-01'
 gutenberg_type: Text
 identifiers:
